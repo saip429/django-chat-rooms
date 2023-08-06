@@ -1,0 +1,11 @@
+* {
+    text-decoration: none;
+    color: black;
+
+}
+
+body {
+    background-image: linear-gradient(127deg, aquamarine, violet);
+    min-height: 100vh;
+
+}
